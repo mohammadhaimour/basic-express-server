@@ -17,8 +17,8 @@
 
 .
 
-## The PR Link
-[Pull Request]()
+## The Pull Request Link
+[Pull Request](https://github.com/mohammadhaimour/basic-express-server/branches)
 
 ## Heroku Link
-[Heroku]()
+[Heroku](https://basicexpressapp.herokuapp.com/)
